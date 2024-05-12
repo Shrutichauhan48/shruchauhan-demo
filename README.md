@@ -10,7 +10,8 @@ Author- Shruti Chauhan
   </a>
   <h1 align="center">AQUA ANGELS</h1>
   <p align="center">
-    <strong>Aqua angels our Women sailors are called.</strong>
+    <strong>Aqua angels our Women sailors are called.
+    Women have been sailing for centuries, often as wives, daughters, or crewmates of male sailors. In the 1800s, some women even disguised themselves as men to serve as sailors on naval ships.</strong>
   </p>
   <p>
 </div>
